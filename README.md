@@ -3,8 +3,7 @@
 ### Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,gatsby,nodejs,express,graphql,jest,tailwind,mongodb,mysql,redis,docker,heroku,vercel,sentry,npm,yarn,git,github)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strwalk)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strwalk&layout=compact)
 
 <!--
 **strwalk/strwalk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
